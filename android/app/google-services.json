@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051785048468",
+    "project_id": "dreamcoder-5275f",
+    "storage_bucket": "dreamcoder-5275f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051785048468:android:bc34b418615b712c921f81",
+        "android_client_info": {
+          "package_name": "com.example.firebase3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_m_8knUd5P2dRw0AmqJIg1YbsjFOyi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
